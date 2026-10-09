@@ -94,12 +94,12 @@ Right now I'm a commerce developer at **18th Digitech**, building eCommerce on *
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,flask,python,java&theme=dark&perline=13">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cphp%2Cflask%2Cpython%2Cjava&theme=dark&perline=13">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,flask,python,java&theme=light&perline=13" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, PHP, Flask, Python, Java">
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel,git,github,githubactions,linux,vscode,figma&theme=dark&perline=13">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Caws%2Cvercel%2Cgit%2Cgithub%2Cgithubactions%2Clinux%2Cvscode%2Cfigma&theme=dark&perline=13">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel,git,github,githubactions,linux,vscode,figma&theme=light&perline=13" alt="MongoDB, MySQL, PostgreSQL, AWS, Vercel, Git, GitHub, GitHub Actions, Linux, VS Code, Figma">
   </picture>
 </p>
